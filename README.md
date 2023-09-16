@@ -1,9 +1,9 @@
-### Hi there 👋
+<div id = "header " align = "center">
 
-<!--
-**stevenvr27/stevenvr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align ="center" >Hi 👋,I'm Steven, a dedicated backend and mobile developer from Costa Rica  </h1> 
+<h3 align = "center">  I'm dedicated to staying at the forefront of the tech world, always eager to explore the latest development languages and technologies. With a love for efficient coding and a zest for learning, I thrive on crafting innovative solutions</h3>
 
-Here are some ideas to get you started:
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
