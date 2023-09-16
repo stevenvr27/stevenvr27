@@ -8,6 +8,9 @@
 - 💬 Ask me about **some projects**
 
 - 📫 How to reach me **stevenvr2017@gmail.com**
+- <p align="center"> <img src="https://komarev.com/ghpvc/?username=stevenvr27&label=Profile%20views&color=0e75b6&style=flat" alt="stevenvr27" /> </p>
+
+<img align="right" width="57%" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
