@@ -8,6 +8,8 @@
 - 💬 Ask me about **some projects**
 
 - 📫 How to reach me **stevenvr2017@gmail.com**
+
+- Follow me in LinkedIn: https://www.linkedin.com/in/luis-steven-vargas-rodriguez-1b0221199/
   
 
 <h3 align="left">Connect with me:</h3>
